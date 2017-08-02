@@ -1,5 +1,8 @@
 ---
-published: true
+layout: post
+title:  "Selamat datang!"
+date:   2017-08-03 05:39:00 +0700
+categories: prose.io
 ---
 ## Posting menggunakan prose.io
 
